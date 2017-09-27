@@ -1,0 +1,33 @@
+{
+  "name": "foobar",
+  "version": "1.0.0",
+  "description": "A lib to magically create foo things and bar vars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lelbil/foobar.git"
+  },
+  "keywords": [
+    "foo",
+    "bar",
+    "foobar",
+    "learning"
+  ],
+  "author": "lelBil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lelbil/foobar/issues"
+  },
+  "homepage": "https://github.com/lelbil/foobar#readme",
+  "dependencies": {
+    "joi": "^11.1.1",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
